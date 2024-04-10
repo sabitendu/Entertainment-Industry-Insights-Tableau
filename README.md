@@ -1,5 +1,8 @@
 # Entertainment-Industry-Insights-Tableau
 
+
+![entertaiment](https://github.com/sabitendu/Entertainment-Industry-Insights-Tableau/assets/117887431/669de93f-4a88-4542-9a98-1038b20939f5)
+
 ## Overview:
 
 As a data analyst at BigScreen Insights, a consultancy specializing in the film sector, I engaged with two extensive datasets: 'Movie Production Details' and 'Movie Revenue and Ratings'. The 'Movie Production Details' dataset furnishes insights into diverse facets of film production, encompassing production companies, budgets, and genres. Conversely, the 'Movie Revenue and Ratings' dataset tracks the commercial performance and audience reception of these films, presenting data on their financial success and public appeal.
